@@ -15,7 +15,7 @@ Please note, that i put my `weights.pkl` file in the `rest-api` folder. If you m
 Install requirements
 
 ```bash
-pip install -r rest-api/requirements.txt
+pip install -r requirements.txt
 ```
 
 Start server
